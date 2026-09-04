@@ -24,3 +24,9 @@ print(resta)
 
 resta = restar(8)
 print(resta)
+
+multiplicacion = multiplicar(5, 2)
+print(multiplicacion)
+
+division = dividir(10, 2)
+print(division)
